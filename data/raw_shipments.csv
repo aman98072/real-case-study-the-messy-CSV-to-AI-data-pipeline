@@ -1,0 +1,16 @@
+shipment_id,origin,destination,ship_date,delivery_date,expected_delivery_date,status,route
+S1001,Mumbai,Delhi,01/03/2024,05/03/2024,04/03/2024,Delivered,MUM-DEL
+S1002,BOM,New Delhi,2024-03-02,2024-03-07,2024-03-05,Delivered,MUM-DEL
+S1003,bombay,delhi,03-04-2024,,03-08-2024,In Transit,MUM-DEL
+S1004,Bangalore,Chennai,04/03/2024,06/03/2024,05/03/2024,Delivered,BLR-CHN
+S1005,BLR,Chennai ,2024/03/05,2024/03/06,2024/03/06,Delivered,BLR-CHN
+S1006,Kolkata,Pune,06-03-2024,12-03-2024,08-03-2024,Delivered,KOL-PUN
+S1007,Calcutta,pune,07/03/2024,,09/03/2024,Delayed,KOL-PUN
+S1008,Hyderabad,Mumbai,08/03/2024,10/03/2024,09/03/2024,Delivered,HYD-MUM
+S1009,HYD,bombay,2024-03-09,2024-03-15,2024-03-11,Delivered,HYD-MUM
+S1010,Delhi,Bangalore,10/03/2024,13/03/2024,12/03/2024,Delivered,DEL-BLR
+S1011,New Delhi,BLR,11-03-2024,,13-03-2024,In Transit,DEL-BLR
+S1012,Chennai,Kolkata,12/03/2024,20/03/2024,14/03/2024,Delivered,CHN-KOL
+S1013,chennai,Calcutta,2024/03/13,2024/03/22,2024/03/15,Delivered,CHN-KOL
+S1014,Pune,Hyderabad,14-03-2024,16-03-2024,15-03-2024,Delivered,PUN-HYD
+S1015,pune,HYD,15/03/2024,,17/03/2024,Delayed,PUN-HYD
